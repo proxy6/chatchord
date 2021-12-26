@@ -1,0 +1,11 @@
+{
+  "name": "chatchord",
+  "version": "1.0.0",
+  "description": "Real time chat app with rooms using node js and web socket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "proxy6",
+  "license": "MIT"
+}
